@@ -1,0 +1,4 @@
+youd/
+*.spec
+build/
+dist/
