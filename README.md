@@ -1,3 +1,3 @@
 # Youd
 
-Descarga playlists de youtube les agrega un numero indice al principio para identificar el vídeo
+Descarga playlists de youtube les agrega un número índice al principio para identificar el vídeo
